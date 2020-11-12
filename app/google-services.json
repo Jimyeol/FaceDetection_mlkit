@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998717762400",
+    "firebase_url": "https://facedetactiontest.firebaseio.com",
+    "project_id": "facedetactiontest",
+    "storage_bucket": "facedetactiontest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998717762400:android:ad4833e201544f75ce0c05",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998717762400-0bte8j9l04b4j7k93ig5srhef8ia8g81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facedetection",
+            "certificate_hash": "96427a4520675b63e182049963b7b5b9f1a7e7cf"
+          }
+        },
+        {
+          "client_id": "998717762400-qvlkomaa65i0fi8hif8n9s2dho15ml6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6jvCdIFWeT22obmf47FXD5KoWYW_d0wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998717762400-qvlkomaa65i0fi8hif8n9s2dho15ml6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
